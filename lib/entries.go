@@ -84,8 +84,6 @@ func DeleteEntry(key string) {
 		Content: "Deleting " + entries[key].nostrKey,
 	}
 
-	fmt.Println(ev)
-
 	ev.Sign(sk)
 	publishEvent(&ev)
 }
