@@ -39,11 +39,3 @@ KEY=<Private Nostr Key>
 RELAY=wss://nostr.zebedee.cloud, wss://nostr-pub.wellorder.net, wss://relay.damus.io, wss://nostr.onsats.org
 
 ```
-
-```
-
-```
-
-```
-
-```
