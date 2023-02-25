@@ -1,3 +1,5 @@
+<img src="lockstr.png" height="300" width="300">
+
 # Lockstr
 
 A password manager that uses [nostr](https://github.com/nostr-protocol/nostr).
